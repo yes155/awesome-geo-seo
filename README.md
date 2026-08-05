@@ -1,4 +1,7 @@
 # Awesome GEO & Semantic SEO
+> ⭐ **If you find this repository useful, please give it a Star!**
+>
+> It helps more SEO professionals, marketers, and developers discover the project.
 
 &gt; A curated, opinionated list of resources for **Generative Engine Optimization (GEO)**, **Semantic SEO**, **Entity SEO**, and **Knowledge Graph Construction**.
 &gt;

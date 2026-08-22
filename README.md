@@ -66,6 +66,7 @@ Tools that track how AI engines mention, cite, or ignore your brand.
 
 - **[HubSpot AI Search Grader](https://www.hubspot.com/ai-search-grader)** — Free snapshot audit. Categorizes your brand as Leader, Challenger, or Niche Player based on AI engine positioning. Zero commitment.
 - **[Geoptie GEO Audit](https://www.geoptie.com)** — Free GEO audit tool. Assess your AI search readiness.
+- **[Parse](https://parse.gl)** - Free public index of AI brand visibility, covering 648,848+ brands across ChatGPT and Google AI Overviews. Search any brand without signing up for a visibility score, competitor benchmark, and cited-source breakdown. Paid plans add monitoring and alerting.
 
 ---
 

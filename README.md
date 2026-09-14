@@ -116,6 +116,7 @@ Legacy SEO platforms that have added AI visibility layers.
 
 ## Open-Source GEO Tools
 
+- **[geolint](https://github.com/iliasabk/geolint)** — ESLint-style linter for AI-search readiness (MIT, TypeScript): evaluates robots.txt against 51 AI crawler tokens, validates `llms.txt`, checks structured data and citability — 51 rules, 0–100 score, SARIF, GitHub Action, MCP server.
 - **[llms.txt Generator](https://github.com/topics/llms-txt)** — Multiple open-source implementations of the `llms.txt` standard (the "robots.txt for the AI era"). Provides clean, markdown-based directories for LLM crawlers.
 - **[Schema.org JSON-LD Generators](https://github.com/search?q=json-ld+generator)** — Community-built generators for LocalBusiness, Product, FAQ, HowTo, and Organization markup.
 - **[Perplexity Citation Tracker (Community)](https://github.com/search?q=perplexity+citation)** — Scripts and scrapers for tracking Perplexity citations at scale.

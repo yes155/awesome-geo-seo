@@ -23,6 +23,7 @@
 - [Communities & Discussion](#communities--discussion)
 - [People to Follow](#people-to-follow)
 - [Research Papers & Deep Reads](#research-papers--deep-reads)
+- [Maintainer-authored practical resources](#maintainer-authored-practical-resources)
 - [Contributing](#contributing)
 
 ---
@@ -250,6 +251,14 @@ Where GEO and semantic SEO practitioners actually talk:
 - **Information Gain** — The net new value your content adds to the existing index. Not repeating what the top 10 results say, but expanding the Knowledge Graph with new relationships and data.
 - **Model Collapse** — When AI models train on too much AI-generated content, quality degrades. Human-generated content (reviews, forums, expert guides) becomes more valuable.
 - **Source Stack** — The hierarchy of data LLMs trust: Foundation (brand assets) → Validation (reviews/UGC) → Amplification (PR/media).
+
+---
+
+## Maintainer-authored practical resources
+
+The following resource is authored by this repository's maintainer and is listed with that relationship disclosed.
+
+- **[Local SEO audit workbook](https://farrukh.top/tools/local-seo-audit-workbook)** — Free manual review of business-profile information, service-page purpose, technical access, and inquiry measurement. Records evidence and next actions across 16 checks, with business-specific guidance and a CSV export. No sign-up or automated ranking score.
 
 ---
 

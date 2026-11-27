@@ -58,6 +58,7 @@ Tools that track how AI engines mention, cite, or ignore your brand.
 
 ### Mid-Market / SMB Tier
 
+- [Lanesra AI](https://lanesra.ai): GEO/AEO analytics and optimization for AI search, including AX (Agentic Experience).
 - **[Peec AI](https://www.peec.ai)** — Clean, affordable GEO analytics. Distinguishes between direct "Source" citations and general brand "Visibility" mentions. Strong European footprint. ~€89–€499/mo.
 - **[Otterly AI](https://www.otterly.ai)** — Beginner-friendly AI visibility watchdog. Converts keywords into conversational prompts and tracks brand mentions with sentiment. $29–$489/mo.
 - **[Rankscale AI](https://www.rankscale.ai)** — Assigns exposure scores across prompts and models. Useful for benchmarking AI presence as a performance KPI. From €20/mo.
